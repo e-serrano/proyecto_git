@@ -1,3 +1,3 @@
 print('hola mundo')
-nodd3r = 'hola'
+nodd3r = False
 print('Probando gitignore')
